@@ -42,22 +42,25 @@ collections:
   posts:
     output: true
     permalink: :year/:month/:day/:slug
+  tag:
+    output: true
+    permalink: tag/:path/
   
 defaults:
   -
     scope:
-      path: "/blog/"
+      path: ""
     values:
       layout: "default"
   -
     scope:
-      path: "/blog/"
+      path: ""
       type: "pages"
     values:
       layout: "page"
   -
     scope:
-      path: "/blog/"
+      path: ""
       type: "posts"
     values:
       layout: "post"
