@@ -1,0 +1,18 @@
+---
+layout: post
+author: rej
+title: asdf
+description: yes
+summary: what
+tags: [crusading]
+date: 2021-12-15 12:00:00 -0500
+---
+# you know what time it is
+it's time for another crusade
+
+
+# comedy section
+call me a sidewinder cause she guide the missile
+
+# support
+go give your local aerospace engineer some zip ties
