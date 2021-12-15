@@ -9,10 +9,10 @@ layout: default
             <div></div>
         </button>
     </div>
-    <p>Maecenas euismod, ante eu mollis tempus, justo tellus tempus dui, non suscipit tellus diam vel ipsum. Phasellus
-        euismod auctor <a href="#">condimentum</a>. Aenean at ex dolor. Praesent eget venenatis erat, sit amet cursus
-        nulla. Vestibulum
-        rutrum, turpis id aliquam sagittis.
+    <p>Welcome to the Braintrust Blog! The content on this site will be
+        much less curated than that on the wiki, but there will be more of
+        it. Expect random writeups, nonsensical posts, and the occasional 
+        gem written in a moment of EUREKA!
     </p>
 </section>
 
@@ -21,7 +21,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{post.author}}</p>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></li>
         {% endfor %}
     </ul>

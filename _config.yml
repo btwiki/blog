@@ -1,7 +1,7 @@
-site: Asko
-url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+site: Braintrust Blog
+url: localhost:4000
+title: BT Blog
+description: We're sorry in advance
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: #yourusername
@@ -15,7 +15,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "/blog"
 
 highlighter: rouge
 
@@ -38,10 +38,10 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: :name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: :year/:month/:day/:slug
   
 defaults:
   -
@@ -61,3 +61,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+markdown: kramdown
