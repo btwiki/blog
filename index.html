@@ -21,7 +21,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{post.author}}</p>
+            <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.author }}<span class="medium"> {{ post.tags | join: ', ' }}</span></p>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></li>
         {% endfor %}
     </ul>
