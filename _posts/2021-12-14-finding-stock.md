@@ -5,7 +5,7 @@ title: Finding Stock in the Chip Shortage
 description: Where'd it all go?
 summary: How to find it
 tags: [imu, arduino]
-date: 2021-12-14 20:41:18 -0700
+date: 2021-12-14 20:41:18 -0800
 ---
 # The Chip Shortage Is Real.
 

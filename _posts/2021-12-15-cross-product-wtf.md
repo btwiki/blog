@@ -5,7 +5,7 @@ title: WTF is the cross product
 description: What do it do
 summary: How do it do it
 tags: [math]
-date: 2021-12-15 09:27:04 -0700
+date: 2021-12-15 09:27:04 -0800
 usemathjax: true
 ---
 # Bro wtf
