@@ -1,9 +1,9 @@
 ---
 layout: post
 author: rej
-title: asdf
-description: yes
-summary: what
+title: rej's corner
+description: this is a bad place
+summary: ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
 tags: [crusading]
 date: 2021-12-15 12:00:00 -0500
 ---
