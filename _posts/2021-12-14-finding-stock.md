@@ -1,7 +1,7 @@
 ---
 layout: post
 author: perry
-title: Finding Stock in the Chip Shortage
+title: Stock in the Chip Shortage
 description: Where'd it all go?
 summary: How to find it
 tags: [imu, arduino]
