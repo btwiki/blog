@@ -16,7 +16,7 @@ $$ \vec{A}\times\vec{B} $$
 
 How does it
 
-$$ \vec{A}\times\vec{B}=|\vec{A}|\cdot|\vec{B}|\cdot\sin\theta\hat{n} $$
+$$ \vec{A}\times\vec{B}=|\vec{A}|\cdot|\vec{B}|\cdot\sin(\theta)\hat{n} $$
 
 What in the
 
