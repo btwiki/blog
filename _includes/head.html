@@ -43,10 +43,11 @@
   {% if page.usemathjax %}
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
-    TeX: { equationNumbers: { autoNumber: "AMS" } }
+    TeX: { equationNumbers: { autoNumber: "AMS" } },
+    jax: ["input/TeX", "output/CommonHTML"]
     });
   </script>
-  <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
   {% endif %}
 
 </head>
