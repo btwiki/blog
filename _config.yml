@@ -46,18 +46,18 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "/blog/"
     values:
       layout: "default"
   -
     scope:
-      path: ""
+      path: "/blog/"
       type: "pages"
     values:
       layout: "page"
   -
     scope:
-      path: ""
+      path: "/blog/"
       type: "posts"
     values:
       layout: "post"
