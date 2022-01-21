@@ -3,7 +3,7 @@ layout: post
 author: Yohan
 title: GPS the FAQ
 description: GPS 
-summary: GPS + GPS = GPS 
+summary: GPS
 tags: [GPS]
 date: 2022-01-21 20:20:18 -0800
 ---
