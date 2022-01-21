@@ -9,7 +9,7 @@ date: 2022-01-21 20:40:00 -0800
 ---
 # GPS : THE FAQ
 
-## How can I get my GPS happy even when he’s not?
+## 1. How can I get my GPS happy even when he’s not?
 Three easy solutions to get your GPS happy :
 -   Power the GPS standalone before the rest of the stuff and wait for it to get a fix. Disconnect the standalone cable and reconnect the GPS to the rest.
 -   Try powering runcams, video transmitters and telemetry radios **ONLY ONCE** GPS fix is acquired.
@@ -17,7 +17,7 @@ Three easy solutions to get your GPS happy :
 
 <br>
 
-## Sometimes my GPS is really happy and then a few hours after he’s not, what to do?
+## 2. Sometimes my GPS is really happy and then a few hours after he’s not, what to do?
 -   The integrated battery on your GPS keep the informations needed for a hot start (happy GPS) for about 3 hours, afterwards your GPS will have to wait to be happy on startup again
 
 <br>
