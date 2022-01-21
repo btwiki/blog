@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 author: U1
-title: GPS, the FAQ
+title: GPS the FAQ
 description: All the answers you ever wanted to know the questions 
 summary: Quick guide to what to do to get to make GPS happy to be happy
 tags: [GPS]
