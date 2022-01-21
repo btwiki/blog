@@ -1,12 +1,13 @@
-﻿---
+---
 layout: post
 author: Yohan
-title: GPS the FAQ
-description: GPS 
+title: GPS
+description: GPS
 summary: GPS
 tags: [GPS]
-date: 2022-01-21 20:20:18 -0800
+date: 2022-01-21 20:40:00 -0800
 ---
+# **GPS : THE FAQ**
 
 ### How can I get my GPS happy even when he’s not?
 Three easy solutions to get your GPS happy :
@@ -50,6 +51,4 @@ Three easy solutions to get your GPS happy :
 - The SAM-M8Q GPS is a really good, small GPS. You can find a lot of differents breakouts easy to use. I'm sure you know what you have to do. 
 
 :) 
-
-
 
