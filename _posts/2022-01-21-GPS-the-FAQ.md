@@ -13,7 +13,7 @@ date: 2022-01-21 20:40:00 -0800
 Three easy solutions to get your GPS happy :
 -   Power the GPS standalone before the rest of the stuff and wait for it to get a fix. Disconnect the standalone cable and reconnect the GPS to the rest.
 -   Try powering runcams, video transmitters and telemetry radios **ONLY ONCE** GPS fix is acquired.
-- If none of above worked, the *"guide of the good engineer 2022(tm)"* recommends  using a hammer as a deterrent tool. GPS will quickly understand who's the boss, and in case he doesn't, he will quickly cease to be a GPS. 
+- If none of above worked, the *"guide of the good engineer 2022 (updated edition)"* recommends  using a hammer as a deterrent tool. GPS will quickly understand who's the boss, and in case he doesn't, he will quickly cease to be a GPS. 
 
 <br>
 
