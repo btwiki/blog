@@ -5,8 +5,7 @@ title: GPS : the FAQ
 description: All the answers you ever wanted to know the questions 
 summary: Quick guide to what to do to get to make GPS happy to be happy
 tags: [GPS]
-date: 2022-01-21 00:00:00 -0000
-usemathjax: false
+date: 2022-01-22 20:20:18 -0800
 ---
 
 # **GPS : the FAQ**
