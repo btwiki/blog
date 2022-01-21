@@ -7,7 +7,6 @@ summary: Quick guide to what to do to get to make GPS happy to be happy
 tags: [GPS]
 date: 2022-01-22 20:20:18 -0800
 ---
-# **GPS : the FAQ**
 
 ### How can I get my GPS happy even when he’s not?
 Three easy solutions to get your GPS happy :
