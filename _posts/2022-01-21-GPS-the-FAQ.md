@@ -4,7 +4,7 @@ author: Yohan
 title: GPS, What The FAQ?
 description: The not complete "how to" about GPS
 summary: Your GPS is maybe fake, buy a genuine GPS!
-tags: [GPS]
+tags: [gps]
 date: 2022-01-21 20:40:00 -0800
 ---
 # GPS : THE FAQ
