@@ -2,10 +2,10 @@
 layout: post
 author: Yohan
 title: GPS the FAQ
-description: All the answers you ever wanted to know the questions 
-summary: Quick guide to what to do to get to make GPS happy to be happy
+description: GPS 
+summary: GPS + GPS = GPS 
 tags: [GPS]
-date: 2022-01-22 20:20:18 -0800
+date: 2022-01-21 20:20:18 -0800
 ---
 
 ### How can I get my GPS happy even when he’s not?
