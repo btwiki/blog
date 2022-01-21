@@ -7,7 +7,6 @@ summary: Your GPS is maybe fake, buy a genuine GPS!
 tags: [GPS]
 date: 2022-01-21 20:40:00 -0800
 ---
-# GPS : THE FAQ
 
 ## 1. How can I get my GPS happy even when he’s not?
 Three easy solutions to get your GPS happy :
