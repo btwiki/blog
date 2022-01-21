@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yohan
-title: GPS : The FAQ 
+title: GPS, The FAQ 
 description: The not complete how to about GPS
 summary: Your GPS is maybe fake, buy a genuine GOS
 tags: [GPS]
