@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Yohan
-title: GPS
-description: GPS
-summary: GPS
+title: GPS : The FAQ 
+description: The not complete how to about GPS
+summary: Your GPS is maybe fake, buy a genuine GOS
 tags: [GPS]
 date: 2022-01-21 20:40:00 -0800
 ---
