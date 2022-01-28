@@ -20,9 +20,12 @@ layout: default
     <h3>BLOG</h3>
     <ul>
         {% for post in site.posts %}
+        {% unless post.hidden %}
         <li>
             <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.author }}<span class="medium"> {{ post.tags | join: ', ' }}</span></p>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></li>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+        </li>
+        {% endunless %}
         {% endfor %}
     </ul>
 </section>
