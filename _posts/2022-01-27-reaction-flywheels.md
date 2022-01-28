@@ -4,7 +4,7 @@ author: perry
 title: Reaction Flywheels
 description: And a whole lotta math
 summary: The math behind omega, MOI, and angular displacement for reaction whee;s
-tags: [math, spacecraft]
+tags: [math, space]
 date: 2022-01-27 19:12:24 -0800
 usemathjax: true
 ---
